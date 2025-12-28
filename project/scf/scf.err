@@ -1,0 +1,145 @@
+
+
+For better command line support, copy and paste the folowing,
+ which will source the spack setup script:
+
+For better command line support, copy and paste the folowing,
+ which will source the spack setup script:
+
+. /home/apps/spack/share/spack/setup-env.sh 
+
+
+. /home/apps/spack/share/spack/setup-env.sh 
+
+
+If using spack to install to system area, make sure to set umask 0002 
+
+
+If using spack to install to system area, make sure to set umask 0002 
+
+so that group write access is available to the software Linux group. 
+
+For better command line support, copy and paste the folowing,
+ which will source the spack setup script:
+
+For better command line support, copy and paste the folowing,
+ which will source the spack setup script:
+
+For better command line support, copy and paste the folowing,
+ which will source the spack setup script:
+
+so that group write access is available to the software Linux group. 
+
+. /home/apps/spack/share/spack/setup-env.sh 
+
+
+. /home/apps/spack/share/spack/setup-env.sh 
+
+
+. /home/apps/spack/share/spack/setup-env.sh 
+
+
+If using spack to install to system area, make sure to set umask 0002 
+If using spack to install to system area, make sure to set umask 0002 
+so that group write access is available to the software Linux group. 
+
+If using spack to install to system area, make sure to set umask 0002 
+so that group write access is available to the software Linux group. 
+
+so that group write access is available to the software Linux group. 
+
+Traceback (most recent call last):
+  File "final.py", line 1, in <module>
+    import numpy as np # for graphene function
+ModuleNotFoundError: No module named 'numpy'
+Traceback (most recent call last):
+  File "final.py", line 1, in <module>
+    import numpy as np # for graphene function
+ModuleNotFoundError: No module named 'numpy'
+Traceback (most recent call last):
+  File "final.py", line 1, in <module>
+    import numpy as np # for graphene function
+ModuleNotFoundError: No module named 'numpy'
+Traceback (most recent call last):
+  File "final.py", line 1, in <module>
+    import numpy as np # for graphene function
+ModuleNotFoundError: No module named 'numpy'
+srun: Access denied for /usr/local/nsg/prolog/pro-createAZone.sh: No such file or directory
+srun: Access denied for /usr/local/nsg/prolog/pro-createAZone.sh: No such file or directory
+Traceback (most recent call last):
+  File "final.py", line 1, in <module>
+    import numpy as np # for graphene function
+ModuleNotFoundError: No module named 'numpy'
+srun: Access denied for /usr/local/nsg/prolog/pro-createAZone.sh: No such file or directory
+srun: Access denied for /usr/local/nsg/prolog/pro-createAZone.sh: No such file or directory
+srun: Access denied for /usr/local/nsg/prolog/pro-createAZone.sh: No such file or directory
+srun: error: Task launch for StepId=39834.0 failed on node cn101: Job credential expired
+srun: error: Application launch failed: Job credential expired
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: error: *** STEP 39834.0 ON cn093 CANCELLED AT 2025-12-24T16:39:11 ***
+srun: error: cn102: task 31: Killed
+srun: error: Task launch for StepId=39837.0 failed on node cn101: Job credential expired
+srun: error: Application launch failed: Job credential expired
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: error: *** STEP 39837.0 ON cn092 CANCELLED AT 2025-12-24T16:39:11 ***
+srun: error: cn093: task 0: Killed
+srun: error: cn092: tasks 0-1: Killed
+srun: error: cn099: task 28: Killed
+srun: error: Task launch for StepId=39838.0 failed on node cn101: Job credential expired
+srun: error: Application launch failed: Job credential expired
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: error: cn102: task 31: Killed
+slurmstepd: error: *** STEP 39838.0 ON cn093 CANCELLED AT 2025-12-24T16:39:12 ***
+srun: error: cn093: tasks 2-23: Killed
+srun: error: cn093: tasks 0-22: Killed
+srun: error: cn098: task 27: Killed
+srun: error: cn098: task 28: Killed
+srun: error: Task launch for StepId=39836.0 failed on node cn101: Job credential expired
+srun: error: Application launch failed: Job credential expired
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: error: *** STEP 39836.0 ON cn092 CANCELLED AT 2025-12-24T16:39:12 ***
+srun: error: cn093: task 23: Killed
+srun: error: cn092: tasks 0-22: Killed
+srun: error: cn099: task 29: Killed
+srun: error: cn096: task 26: Killed
+srun: error: cn096: task 25: Killed
+srun: error: cn099: task 28: Killed
+srun: error: cn096: task 25: Killed
+srun: error: cn094: task 23: Killed
+srun: error: cn094: task 24: Killed
+srun: error: cn096: task 26: Killed
+srun: error: cn100: task 29: Killed
+srun: error: cn099: task 29: Killed
+srun: error: cn094: tasks 1-23: Killed
+srun: error: cn100: task 30: Killed
+srun: error: Task launch for StepId=39835.0 failed on node cn101: Job credential expired
+srun: error: Application launch failed: Job credential expired
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: error: cn098: task 27: Killed
+slurmstepd: error: *** STEP 39835.0 ON cn092 CANCELLED AT 2025-12-24T16:39:12 ***
+srun: error: cn100: task 29: Killed
+srun: error: cn098: task 28: Killed
+srun: error: cn097: task 26: Killed
+srun: error: cn095: task 24: Killed
+srun: error: cn095: task 25: Killed
+srun: error: cn093: task 23: Killed
+srun: error: cn099: task 29: Killed
+srun: error: cn094: task 24: Killed
+srun: error: cn098: task 28: Killed
+srun: error: cn095: task 24: Killed
+srun: error: cn097: task 27: Killed
+srun: error: cn100: task 30: Killed
+srun: error: cn100: task 30: Killed
+srun: error: cn097: task 26: Killed
+srun: error: cn095: task 25: Killed
+srun: error: cn094: task 24: Killed
+srun: error: cn096: task 26: Killed
+srun: error: cn092: tasks 0-22: Killed
+srun: error: cn095: task 25: Killed
+srun: error: cn097: task 27: Killed
+srun: error: cn097: task 27: Killed
+srun: error: Timed out waiting for job step to complete
+srun: error: Timed out waiting for job step to complete
+srun: error: Timed out waiting for job step to complete
+srun: error: Timed out waiting for job step to complete
+srun: error: Timed out waiting for job step to complete
